@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file alias="edit">images/icon-edit.png</file>
+        <file alias="cancel">images/icon-cancel.png</file>
+        <file alias="confirm">images/icon-confirm.png</file>
+        <file alias="erase">images/icon-eraser.png</file>
+        <file alias="exit">images/icon-exit.png</file>
+        <file alias="minus">images/icon-minus.png</file>
+        <file alias="plus">images/icon-plus.png</file>
+        <file alias="printer">images/icon-printer.png</file>
+        <file alias="refresh">images/icon-refresh.png</file>
+        <file alias="remove">images/icon-remove.png</file>
+        <file alias="report">images/icon-report.png</file>
+        <file alias="search">images/icon-search.png</file>
+        <file alias="settings">images/icon-settings.png</file>
+        <file alias="money">images/icon-bill.png</file>
+        <file alias="application">images/compras.png</file>
+    </qresource>
+</RCC>
